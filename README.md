@@ -1,2 +1,2 @@
 # github-teaching-demo
-A repository to learn the basic of GitHub for students and beginners
+A repository to learn the basics of GitHub for students and beginners
